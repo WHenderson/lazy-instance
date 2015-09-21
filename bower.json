@@ -1,0 +1,30 @@
+{
+  "name": "lazy-instance",
+  "description": "Lazily define instance properties through the prototype chain",
+  "main": "dist/lazy-instance.umd.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "lazy",
+    "prototype",
+    "class",
+    "instance",
+    "value"
+  ],
+  "homepage": "https://github.com/WHenderson/lazy-instance",
+  "authors": [
+    "WHenderson <whenderson.github@gmail.com>"
+  ],
+  "license": "Apache-2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "coverage",
+    "test",
+    "tests"
+  ]
+}
