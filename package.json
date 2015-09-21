@@ -1,6 +1,6 @@
 {
   "name": "lazy-instance",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Lazily define instance properties through the prototype chain",
   "main": "index.js",
   "scripts": {
