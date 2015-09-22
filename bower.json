@@ -26,5 +26,8 @@
     "coverage",
     "test",
     "tests"
-  ]
+  ],
+  "devDependencies": {
+    "knockout": "knockoutjs#~3.3.0"
+  }
 }
