@@ -4,6 +4,7 @@
   "description": "Lazily define instance properties through the prototype chain",
   "main": "index.js",
   "scripts": {
+    "pretest": "bower install",
     "test": "node_modules/.bin/gulp test",
     "_prepublish": "node_modules/.bin/gulp test"
   },
